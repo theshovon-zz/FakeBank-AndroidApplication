@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">F-BANK</string>
+    <string-array name="serviceTypes">
+        <item>Deposit</item>
+        <item>Withdraw</item>
+        <item>Transfer</item>
+        <item>Print Statement</item>
+    </string-array>
+</resources>

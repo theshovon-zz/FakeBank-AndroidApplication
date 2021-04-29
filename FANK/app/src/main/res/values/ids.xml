@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="outputTransaction" type="id" />
+    <item name="labelToAccount" type="id" />
+    <item name="inputFromAccount" type="id" />
+    <item name="inputAmount" type="id" />
+    <item name="buttonConfirm" type="id" />
+    <item name="labelAmount" type="id" />
+    <item name="inputToAccount" type="id" />
+    <item name="inputName" type="id"/>
+    <item name="inputInitBalance" type="id"/>
+    <item name="optionsServiceTypes" type="id"/>
+</resources>
